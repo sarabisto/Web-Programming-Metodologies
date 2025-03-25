@@ -1,2 +1,2 @@
-# Web_Project
-Project for the course of Web Programming Metologies of my CS bachelor degree
+# Web Programming Metodologies
+Project, files and exercises for the course of Web Programming Metodologies of my CS bachelor degree
